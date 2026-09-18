@@ -1,0 +1,6 @@
+{
+  "name": "QuickCourt",
+  "description": "A local sports booking, real-time court availability, and player matchmaking community platform.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
